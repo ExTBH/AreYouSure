@@ -2,7 +2,7 @@ Package: dev.extbh.areyousure
 Name: AreYouSure?
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Confirm Calls for Instagram
 Maintainer: ExTBH
 Author: ExTBH
 Section: Tweaks
