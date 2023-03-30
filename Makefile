@@ -1,4 +1,4 @@
-TARGET := iphone:clang:latest:13.4
+TARGET := iphone:clang:latest:14.0
 INSTALL_TARGET_PROCESSES = Instagram
 
 include $(THEOS)/makefiles/common.mk

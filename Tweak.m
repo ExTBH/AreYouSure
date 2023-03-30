@@ -16,7 +16,6 @@ static void confirmCall(id self, SEL _cmd, id sender) {
 		} else {
 			orig_didTapVideoButton(self, _cmd, sender);
 		}
-
 	}];
 	UIAlertAction *cancel = [UIAlertAction actionWithTitle:@"Cancel" style:UIAlertActionStyleCancel handler:nil];
 	[alert addAction:call];
